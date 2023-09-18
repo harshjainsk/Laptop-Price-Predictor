@@ -1,4 +1,4 @@
-# Laptop-Price-Predictor
+# [Laptop-Price-Predictor](https://harshjainsk-laptop-price-predictor-app-ocguts.streamlit.app/)
 <ul>
   <li>Designed a web app that predicts the price of the laptop given the configurations. </li>
   <li>Developed Linear, Lasso, and Random Forest Regressors KNN, Decision Tree Regressor and Gradient Boost Regressor to get the best model.</li>
@@ -24,4 +24,4 @@ Used scikit-learn library for the Machine Learning tasks. Applied label encoding
 # Model Deployment
 Deployed the model using Streamlit library on Heroku which is a Platform As A Service(PAAS)
 
-# Web application: <a href="https://laptop-price-predictor-harsh.herokuapp.com/">https://laptop-price-predictor-harsh.herokuapp.com/</a>
+
