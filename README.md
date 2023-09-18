@@ -1,4 +1,4 @@
-# [Laptop-Price-Predictor](https://harshjainsk-laptop-price-predictor-app-ocguts.streamlit.app/)
+# [Laptop-Price-Predictor](https://harsh-laptop-price-predictor.streamlit.app/)
 <ul>
   <li>Designed a web app that predicts the price of the laptop given the configurations. </li>
   <li>Developed Linear, Lasso, and Random Forest Regressors KNN, Decision Tree Regressor and Gradient Boost Regressor to get the best model.</li>
